@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "112955595650",
+    "firebase_url": "https://matheusr-data.firebaseio.com",
+    "project_id": "matheusr-data",
+    "storage_bucket": "matheusr-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112955595650:android:96a9600342006bda",
+        "android_client_info": {
+          "package_name": "com.invillia.acme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112955595650-k0lduhnuff7luo7fg3j2tjumjnm3vtok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTInxQxEykwwmxTfQMNKUs2gegsCKlDxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
